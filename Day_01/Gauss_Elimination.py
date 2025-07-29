@@ -1,5 +1,5 @@
 import numpy as np    
-
+#https://github.com/psu-efd/Computing-in-CEE/blob/master/chapter_4_linear_system/linear_equation_systems.ipynb
 #perfrom Gaussian elimination (GE) for the lineary system Ax=b
 #on return, the matrix A is destroyed. The solution is
 #stored in x. 

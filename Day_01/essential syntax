@@ -1,0 +1,8 @@
+#Syntax for printing a message in Python
+print("Hello, World!")
+#Python uses indentation to define blocks of code
+#This is a comment in Python, it starts with a hash symbol
+#for example, this is a single-line comment
+if 36 > 35:
+    print("36 is greater than 35")  
+    
