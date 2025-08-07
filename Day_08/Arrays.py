@@ -26,3 +26,4 @@ if __name__ == "__main__":
     print("Array after removing an element:")
     remove_element(my_array, 2)
     print_array(my_array)
+
